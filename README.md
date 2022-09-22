@@ -1,1 +1,9 @@
-The 0x00. Vagrant project involves downloading, installing, and creating a virtual machine using the command line terminal. Specifically, the Vagrant virtual machine, and setting it up using the ubuntu/trusty64 image. This virtual machine is an emulation of the Ubuntu 64 operating system. On the virtual machine, the command uname is used on the terminal to display the systems information. For the ubuntu/trusty64, uname displays “Linux” which is the operating system its emulating. This project also involves installing git onto the machine, and pushing the files and folder to the appropriate github repository.
+This repository contains the following assignments:
+
+
+
+0x00. Vagrant -- Setup and SSH into new Vagrant virtual machine
+
+0x01. Emacs -- Basic understanding of how to use Emacs text editor
+
+0x02. vi -- Basic understanding of how to use vi text editor
